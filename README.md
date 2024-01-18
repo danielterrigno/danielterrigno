@@ -72,6 +72,9 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   </a>
+    <a href="#">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
 </h3>
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita+✌️;Me+envie+uma+mensagem+no+LinkedIn!;Abraços+:)">
